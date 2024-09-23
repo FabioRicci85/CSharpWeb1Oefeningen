@@ -1,0 +1,25 @@
+﻿@page
+@model RazorWebAppClient.Pages.KlantenLocatieOverzichtModel
+@{
+    var klanten = Data.Databank.Klanten;
+    var locaties = Data.Databank.Locaties;
+    
+}
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">Klant</th>
+            <th scope="col">Locatie</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var klant in klanten)
+        {
+            
+            <tr>
+                <td>@klant.KlantNaam</td>
+               @*  <td>@</td> *@
+            </tr>
+        }
+    </tbody>
+</table>

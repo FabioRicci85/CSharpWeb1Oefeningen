@@ -1,0 +1,18 @@
+﻿@page
+@model RazorWebAppClient.Pages.LocatieDetailsModel
+@{
+    var id = Model.LocatieId;
+    var row = Data.Databank.Locaties.Where(x => x.LocatieId == id).FirstOrDefault();
+    var postCode = (row != null) ? row.PostCode : "";
+    var gemeente = (row != null) ? row.Gemeente : "";
+
+}
+<div>
+    <h1>Locatie details</h1>
+    <br />
+    <p>ID: @id</p>
+    <br />
+    <p>Postcode: @postCode</p>
+    <br />
+    <p>Gemeente: @gemeente</p>
+</div>
