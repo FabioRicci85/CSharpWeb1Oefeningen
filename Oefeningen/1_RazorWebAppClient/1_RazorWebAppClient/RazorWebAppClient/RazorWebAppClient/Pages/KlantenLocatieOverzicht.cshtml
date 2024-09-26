@@ -2,7 +2,7 @@
 @model RazorWebAppClient.Pages.KlantenLocatieOverzichtModel
 @{
     var klanten = Data.Databank.Klanten;
-    var locaties = Data.Databank.Locaties;
+   
     
 }
 <table class="table table-bordered">
@@ -15,10 +15,10 @@
     <tbody>
         @foreach (var klant in klanten)
         {
-            
+            var locaties = Data.Databank.Locaties.FirstOrDefault(x => x.LocatieId == klant.LocatieId);
             <tr>
                 <td>@klant.KlantNaam</td>
-               @*  <td>@</td> *@
+                <td>@(locaties != null ? locaties.Gemeente : "Gemeente niet gevonden")</td>
             </tr>
         }
     </tbody>

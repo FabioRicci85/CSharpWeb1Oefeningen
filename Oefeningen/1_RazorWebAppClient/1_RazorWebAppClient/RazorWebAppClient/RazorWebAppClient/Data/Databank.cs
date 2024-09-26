@@ -21,9 +21,9 @@
             Locaties.Add(new Locatie(id, postcode, city));
         }
 
-        public static void AddKlant(string naam)
+        public static void AddKlant(string naam, int idLocatie)
         {
-            int idLocatie = Locaties.Max(x => x.LocatieId) + 1;
+            
             int id = Klanten.Max(x => x.KlantId) + 1;
             Klanten.Add(new Klant(id, naam, idLocatie));
         }

@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocation\\webappmvcclientlocation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|solutionrelative:webappmvcclientlocation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocation\\webappmvcclientlocation\\models\\clientlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|solutionrelative:webappmvcclientlocation\\models\\clientlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocation\\webappmvcclientlocation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|solutionrelative:webappmvcclientlocation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocation\\webappmvcclientlocation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|solutionrelative:webappmvcclientlocation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocation\\webappmvcclientlocation\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|solutionrelative:webappmvcclientlocation\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocation\\webappmvcclientlocation\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|solutionrelative:webappmvcclientlocation\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocation\\webappmvcclientlocation\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|solutionrelative:webappmvcclientlocation\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppMvcClientLocation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAppMvcClientLocation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T10:03:33.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppMvcClientLocation\\Program.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Program.cs",
+              "RelativeToolTip": "WebAppMvcClientLocation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:02:05.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppMvcClientLocation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppMvcClientLocation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:53:21.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "WebAppMvcClientLocation\\Data\\Database.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Data\\Database.cs",
+              "RelativeToolTip": "WebAppMvcClientLocation\\Data\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:40:32.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientLocation.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Models\\ClientLocation.cs",
+              "RelativeDocumentMoniker": "WebAppMvcClientLocation\\Models\\ClientLocation.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Models\\ClientLocation.cs",
+              "RelativeToolTip": "WebAppMvcClientLocation\\Models\\ClientLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:39:20.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "WebAppMvcClientLocation\\Models\\Location.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Models\\Location.cs",
+              "RelativeToolTip": "WebAppMvcClientLocation\\Models\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:37:28.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "WebAppMvcClientLocation\\Models\\Client.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Models\\Client.cs",
+              "RelativeToolTip": "WebAppMvcClientLocation\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:36:31.919Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,7 +11,8 @@ namespace RazorWebAppClient.Pages
         public void OnPost()
         {
             string naam = Request.Form["KlantNaam"];
-            Data.Databank.AddKlant(naam);
+            int idLocatie = int.Parse(Request.Form["SelectLocatie"]);
+            Data.Databank.AddKlant(naam, idLocatie);
             Response.Redirect("KlantenLocatieOverzicht");
         }
     }

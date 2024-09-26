@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    int clientCount = ViewBag.ClientCount;
+    int locationCount = ViewBag.LocationCount;
+}
+
+<div class="text-center">
+    <h1 class="display-4">The database has been started in Program.cs</h1>
+    <h4>Client records: @clientCount</h4>
+    <h4>Location records: @locationCount</h4>
+</div>

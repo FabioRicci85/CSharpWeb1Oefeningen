@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharpWeb1Oefeningen\\Klassikale Oefeningen\\MCVWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A85F49-A504-4B28-92D8-E69AFF9E43AE}|MCVWebApp\\MCVWebApp.csproj|c:\\csharpweb1oefeningen\\klassikale oefeningen\\mcvwebapp\\mcvwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A85F49-A504-4B28-92D8-E69AFF9E43AE}|MCVWebApp\\MCVWebApp.csproj|solutionrelative:mcvwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A85F49-A504-4B28-92D8-E69AFF9E43AE}|MCVWebApp\\MCVWebApp.csproj|c:\\csharpweb1oefeningen\\klassikale oefeningen\\mcvwebapp\\mcvwebapp\\views\\test\\testviewbag.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0A85F49-A504-4B28-92D8-E69AFF9E43AE}|MCVWebApp\\MCVWebApp.csproj|solutionrelative:mcvwebapp\\views\\test\\testviewbag.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A85F49-A504-4B28-92D8-E69AFF9E43AE}|MCVWebApp\\MCVWebApp.csproj|c:\\csharpweb1oefeningen\\klassikale oefeningen\\mcvwebapp\\mcvwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0A85F49-A504-4B28-92D8-E69AFF9E43AE}|MCVWebApp\\MCVWebApp.csproj|solutionrelative:mcvwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Klassikale Oefeningen\\MCVWebApp\\MCVWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "MCVWebApp\\Program.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Klassikale Oefeningen\\MCVWebApp\\MCVWebApp\\Program.cs*",
+              "RelativeToolTip": "MCVWebApp\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:01:06.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestViewBag.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Klassikale Oefeningen\\MCVWebApp\\MCVWebApp\\Views\\Test\\TestViewBag.cshtml",
+              "RelativeDocumentMoniker": "MCVWebApp\\Views\\Test\\TestViewBag.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Klassikale Oefeningen\\MCVWebApp\\MCVWebApp\\Views\\Test\\TestViewBag.cshtml",
+              "RelativeToolTip": "MCVWebApp\\Views\\Test\\TestViewBag.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T09:59:44.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Klassikale Oefeningen\\MCVWebApp\\MCVWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MCVWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Klassikale Oefeningen\\MCVWebApp\\MCVWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MCVWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T08:46:34.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
