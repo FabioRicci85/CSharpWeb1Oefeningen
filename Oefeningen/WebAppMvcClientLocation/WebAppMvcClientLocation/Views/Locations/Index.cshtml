@@ -1,0 +1,38 @@
+﻿@using WebAppMvcClientLocation.Data
+@using WebAppMvcClientLocation.Controllers
+
+@model IEnumerable<Location>
+
+@{
+    ViewData["Title"] = "Locations";
+    // var locatie = Database.Locations;
+}
+
+<h1>Index</h1>
+<br />
+<a asp-controller="Locations" asp-action="Create">Create New</a>
+<br />
+<table>
+    <thead>
+        <tr>
+            <th>LocationId</th>
+            <th>PostCode</th>
+            <th>City</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var loc in Model)
+        {
+            <tr>
+                <td>@loc.LocationId</td>
+                <td>@loc.PostCode</td>
+                <td>@loc.City</td>
+                <td>
+                    <a asp-action="Edit">Edit</a>
+                    <a asp-action="Details">Details</a>
+                    <a asp-action="Delete">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

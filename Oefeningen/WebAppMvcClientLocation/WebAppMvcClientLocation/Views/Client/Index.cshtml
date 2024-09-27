@@ -1,5 +1,39 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@using WebAppMvcClientLocation.Controllers
+@using WebAppMvcClientLocation.Data
+
+@model IEnumerable<Client>
 @{
+    ViewData["Title"] = "Clients";
+    // var klanten = Database.Clients;
 }
+
+<h1>Clients</h1>
+<br />
+<a asp-controller="Client" asp-action="Create">Create New</a>
+<br />
+<table>
+    <thead>
+        <tr>
+            <th>ClientId</th>
+            <th>LocationId</th>
+            <th>ClientName</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var klant in Model)
+        {
+            <tr>
+                <td>@klant.ClientId</td>
+                <td>@klant.LocationId</td>
+                <td>@klant.ClientName</td>
+                <td>
+                    <a asp-action="Edit">Edit</a>
+                    <a asp-action="Details">Details</a>
+                    <a asp-action="Delete">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCPartyInvites")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccab8ae5d92205d600bf56a888d7b2998b06725d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd79a17abf68acc8bae334d1e57d18ab3da42b1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCPartyInvites")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCPartyInvites")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

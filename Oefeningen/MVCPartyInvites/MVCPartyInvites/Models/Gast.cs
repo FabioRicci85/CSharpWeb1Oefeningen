@@ -1,10 +1,16 @@
-﻿namespace MVCPartyInvites.Models
+﻿using System.ComponentModel.DataAnnotations;
+namespace MVCPartyInvites.Models
 {
     public class Gast
     {
-        public string Naam { get; set; }
-        public string Email { get; set; }
-        public string Telefoon { get; set; }
+        [Required]
+        public string? Naam { get; set; }
+        [Required(ErrorMessage = "Vul je email in!")]
+        [EmailAddress]
+        public string? Email { get; set; }
+        [Required(ErrorMessage ="Vul je telefoonnummer in!")]
+        public string? Telefoon { get; set; }
+        [Required(ErrorMessage ="Laat weten of je aanwezig zal zijn!")]
         public bool? Aanwezig { get; set; }
     }
 }

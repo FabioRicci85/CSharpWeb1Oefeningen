@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\",
+  "WorkspaceRootPath": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcpartyinvites\\mvcpartyinvites\\views\\gast\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|c:\\csharpweb_oefeningen\\oefeningen\\mvcpartyinvites\\mvcpartyinvites\\views\\gast\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|solutionrelative:mvcpartyinvites\\views\\gast\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcpartyinvites\\mvcpartyinvites\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|solutionrelative:mvcpartyinvites\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|c:\\csharpweb_oefeningen\\oefeningen\\mvcpartyinvites\\mvcpartyinvites\\models\\gast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|solutionrelative:mvcpartyinvites\\models\\gast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcpartyinvites\\mvcpartyinvites\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|solutionrelative:mvcpartyinvites\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcpartyinvites\\mvcpartyinvites\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|solutionrelative:mvcpartyinvites\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcpartyinvites\\mvcpartyinvites\\data\\localdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|solutionrelative:mvcpartyinvites\\data\\localdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcpartyinvites\\mvcpartyinvites\\controllers\\gastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|c:\\csharpweb_oefeningen\\oefeningen\\mvcpartyinvites\\mvcpartyinvites\\controllers\\gastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|solutionrelative:mvcpartyinvites\\controllers\\gastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcpartyinvites\\mvcpartyinvites\\models\\gast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|solutionrelative:mvcpartyinvites\\models\\gast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|c:\\csharpweb_oefeningen\\oefeningen\\mvcpartyinvites\\mvcpartyinvites\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|solutionrelative:mvcpartyinvites\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|c:\\csharpweb_oefeningen\\oefeningen\\mvcpartyinvites\\mvcpartyinvites\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|solutionrelative:mvcpartyinvites\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|c:\\csharpweb_oefeningen\\oefeningen\\mvcpartyinvites\\mvcpartyinvites\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|solutionrelative:mvcpartyinvites\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|c:\\csharpweb_oefeningen\\oefeningen\\mvcpartyinvites\\mvcpartyinvites\\data\\localdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3360C0-16F5-4BAF-8088-49D1F0850F47}|MVCPartyInvites\\MVCPartyInvites.csproj|solutionrelative:mvcpartyinvites\\data\\localdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 15,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -65,53 +77,68 @@
               "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LocalData.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Data\\LocalData.cs",
-              "RelativeDocumentMoniker": "MVCPartyInvites\\Data\\LocalData.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Data\\LocalData.cs",
-              "RelativeToolTip": "MVCPartyInvites\\Data\\LocalData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Gast.cs",
+              "DocumentMoniker": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Models\\Gast.cs",
+              "RelativeDocumentMoniker": "MVCPartyInvites\\Models\\Gast.cs",
+              "ToolTip": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Models\\Gast.cs",
+              "RelativeToolTip": "MVCPartyInvites\\Models\\Gast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T09:13:30.906Z",
+              "WhenOpened": "2024-09-27T08:43:29.45Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocalData.cs",
+              "DocumentMoniker": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Data\\LocalData.cs",
+              "RelativeDocumentMoniker": "MVCPartyInvites\\Data\\LocalData.cs",
+              "ToolTip": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Data\\LocalData.cs",
+              "RelativeToolTip": "MVCPartyInvites\\Data\\LocalData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:13:30.906Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCPartyInvites\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MVCPartyInvites\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-26T08:56:24.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCPartyInvites\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MVCPartyInvites\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T08:55:02.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T08:55:02.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCPartyInvites\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MVCPartyInvites\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T08:53:43.823Z",
               "EditorCaption": ""
@@ -120,39 +147,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Views\\Gast\\Index.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Views\\Gast\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCPartyInvites\\Views\\Gast\\Index.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Views\\Gast\\Index.cshtml",
+              "ToolTip": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Views\\Gast\\Index.cshtml",
               "RelativeToolTip": "MVCPartyInvites\\Views\\Gast\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-26T08:49:52.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "GastController.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Controllers\\GastController.cs",
+              "DocumentMoniker": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Controllers\\GastController.cs",
               "RelativeDocumentMoniker": "MVCPartyInvites\\Controllers\\GastController.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Controllers\\GastController.cs",
+              "ToolTip": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Controllers\\GastController.cs",
               "RelativeToolTip": "MVCPartyInvites\\Controllers\\GastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T08:49:27.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Gast.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Models\\Gast.cs",
-              "RelativeDocumentMoniker": "MVCPartyInvites\\Models\\Gast.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCPartyInvites\\MVCPartyInvites\\Models\\Gast.cs",
-              "RelativeToolTip": "MVCPartyInvites\\Models\\Gast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:33:32.214Z",
               "EditorCaption": ""
             }
           ]

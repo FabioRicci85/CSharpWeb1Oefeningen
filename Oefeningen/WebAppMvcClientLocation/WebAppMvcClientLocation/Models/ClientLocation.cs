@@ -7,7 +7,8 @@
 
         public IEnumerable<ClientLocation> Overview()
         {
-            var cl = Data.Database.Clients.Select(x => new ClientLocation { ClientName = x.ClientName, City = Data.Database.Locations.Where(y => y.LocationId == x.LocationId).FirstOrDefault().City });
+            var cl = Data.Database.Clients.Select(x => new ClientLocation 
+                { ClientName = x.ClientName, City = Data.Database.Locations.Where(y => y.LocationId == x.LocationId).FirstOrDefault().City });
 
             return cl;
         }
