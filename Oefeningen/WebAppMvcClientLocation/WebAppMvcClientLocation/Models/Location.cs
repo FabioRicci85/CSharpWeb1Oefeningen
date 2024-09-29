@@ -1,10 +1,14 @@
-﻿namespace WebAppMvcClientLocation.Models
+﻿using System.ComponentModel.DataAnnotations;
+namespace WebAppMvcClientLocation.Models
 {
     public class Location
     {
-        public int LocationId { get; set; }
-        public string PostCode { get; set; }
-        public string City { get; set; }
+        
+        public int? LocationId { get; set; }
+        [Required (ErrorMessage = "The PostCode field is required")]
+        public string? PostCode { get; set; }
+        [Required]
+        public string? City { get; set; }
 
         public Location()
         {

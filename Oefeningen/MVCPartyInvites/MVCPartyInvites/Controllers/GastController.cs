@@ -20,14 +20,14 @@ namespace MVCPartyInvites.Controllers
                 if (g.Naam == null || g.Naam.Length < 2)
                 {
                     ModelState.AddModelError("", "Naam is te kort");
-                    return View("Index", g); //blijven op index view met de reeds ingevulde data
+                    return View("Index", g); //blijven op index view (pagina waarop je bent aant invullen) met de reeds ingevulde data
                 }
                 LocalData.GastList.Add(g);
                 return RedirectToAction("Index", "Home");
             }
             else
             {
-                return View("Index", g); //blijven op index view met de reeds ingevulde data
+                return View("Index", g); //blijven op index view (pagina waarop je bent aant invullen) met de reeds ingevulde data
             }
         }
     }

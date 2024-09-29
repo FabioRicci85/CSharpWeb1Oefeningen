@@ -1,10 +1,15 @@
-﻿namespace WebAppMvcClientLocation.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace WebAppMvcClientLocation.Models
 {
     public class Client
     {
-        public int ClientId { get; set; }
-        public int LocationId { get; set; }
-        public string ClientName { get; set; }
+        [Required]
+        public int? ClientId { get; set; }
+        [Required]
+        public int? LocationId { get; set; }
+        [Required(ErrorMessage = "ClientName is required!")]
+        public string? ClientName { get; set; }
 
         public Client()
         {

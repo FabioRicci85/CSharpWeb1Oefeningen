@@ -20,8 +20,15 @@ namespace WebAppMvcClientLocation.Controllers
         [HttpPost]
         public IActionResult Create(Location l)
         {
-            Database.AddLocation(l);
-            return RedirectToAction("Index", "Location");
+            if (ModelState.IsValid)
+            {
+                Database.AddLocation(l);
+                return RedirectToAction("Index", "Locations");
+            }
+            else
+            {
+                return View("Create", l);
+            }
         }
         
     }

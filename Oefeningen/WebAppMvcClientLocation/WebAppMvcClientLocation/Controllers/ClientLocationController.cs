@@ -1,8 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using WebAppMvcClientLocation.Models;
+using WebAppMvcClientLocation.Data;
 
 namespace WebAppMvcClientLocation.Controllers
 {
-    public class OverviewController : Controller
+    public class ClientLocationController : Controller
     {
         public IActionResult Index()
         {
