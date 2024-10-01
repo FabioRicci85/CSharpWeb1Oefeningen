@@ -10,7 +10,7 @@ namespace WebAppMvcClientLocation.Models
         [Required]
         public int? LocationId { get; set; }
         [Required(ErrorMessage = "ClientName is required!")]
-        [CustomName]
+        [CustomNoNumbers]
         public string? ClientName { get; set; }
 
         public Client()

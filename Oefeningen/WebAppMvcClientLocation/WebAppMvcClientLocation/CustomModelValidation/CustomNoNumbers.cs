@@ -2,14 +2,17 @@
 
 namespace WebAppMvcClientLocation.CustomModelValidation
 {
-    public class CustomName : Attribute, IModelValidator
+    public class CustomNoNumbers : Attribute, IModelValidator
     {
         public IEnumerable<ModelValidationResult> Validate(ModelValidationContext context)
         {
-            var name = context.Model;
+            var name = context.Model as string;
             var lst = new List<ModelValidationResult>();
 
-            //if ((context.Model != null))
+            if (!string.IsNullOrEmpty(name) && name.Any(char.IsDigit))
+            {
+                lst.Add(new ModelValidationResult("", "Naam mag geen cijfers bevatten"));
+            }
                 return lst;
         }
     }

@@ -8,6 +8,8 @@ namespace WebAppMvcClientLocation.Data
         public static List<Client> Clients { get; set; }
         public static List<Location> Locations { get; set; }
 
+
+
         public static InsertResult AddClient(Client c)
         {
             var result = new InsertResult();
@@ -52,5 +54,7 @@ namespace WebAppMvcClientLocation.Data
             Locations.Add(new Location(1, "3500", "Hasselt"));
             Locations.Add(new Location(2, "3600", "Genk"));
         }
+
+
     }
 }
