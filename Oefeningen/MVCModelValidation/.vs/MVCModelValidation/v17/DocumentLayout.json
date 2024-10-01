@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcmodelvalidation\\mvcmodelvalidation\\custommodelvalidations\\customdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|solutionrelative:mvcmodelvalidation\\custommodelvalidations\\customdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcmodelvalidation\\mvcmodelvalidation\\views\\testdata\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|solutionrelative:mvcmodelvalidation\\views\\testdata\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcmodelvalidation\\mvcmodelvalidation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|solutionrelative:mvcmodelvalidation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcmodelvalidation\\mvcmodelvalidation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|solutionrelative:mvcmodelvalidation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcmodelvalidation\\mvcmodelvalidation\\controllers\\testdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|solutionrelative:mvcmodelvalidation\\controllers\\testdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcmodelvalidation\\mvcmodelvalidation\\views\\testdata\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|solutionrelative:mvcmodelvalidation\\views\\testdata\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcmodelvalidation\\mvcmodelvalidation\\data\\localdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|solutionrelative:mvcmodelvalidation\\data\\localdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcmodelvalidation\\mvcmodelvalidation\\models\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56A2F8-3DC0-4F27-935A-172329C3C652}|MVCModelValidation\\MVCModelValidation.csproj|solutionrelative:mvcmodelvalidation\\models\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCModelValidation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCModelValidation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T09:11:52.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCModelValidation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCModelValidation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T09:07:36.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\Views\\TestData\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCModelValidation\\Views\\TestData\\Create.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\Views\\TestData\\Create.cshtml",
+              "RelativeToolTip": "MVCModelValidation\\Views\\TestData\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T09:02:42.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\Views\\TestData\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCModelValidation\\Views\\TestData\\Index.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\Views\\TestData\\Index.cshtml",
+              "RelativeToolTip": "MVCModelValidation\\Views\\TestData\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T09:02:08.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestDataController.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\Controllers\\TestDataController.cs",
+              "RelativeDocumentMoniker": "MVCModelValidation\\Controllers\\TestDataController.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\Controllers\\TestDataController.cs",
+              "RelativeToolTip": "MVCModelValidation\\Controllers\\TestDataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:58:23.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomDate.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\CustomModelValidations\\CustomDate.cs",
+              "RelativeDocumentMoniker": "MVCModelValidation\\CustomModelValidations\\CustomDate.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\CustomModelValidations\\CustomDate.cs",
+              "RelativeToolTip": "MVCModelValidation\\CustomModelValidations\\CustomDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:46:20.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocalData.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\Data\\LocalData.cs",
+              "RelativeDocumentMoniker": "MVCModelValidation\\Data\\LocalData.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\Data\\LocalData.cs",
+              "RelativeToolTip": "MVCModelValidation\\Data\\LocalData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:42:50.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestData.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\Models\\TestData.cs",
+              "RelativeDocumentMoniker": "MVCModelValidation\\Models\\TestData.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCModelValidation\\MVCModelValidation\\Models\\TestData.cs",
+              "RelativeToolTip": "MVCModelValidation\\Models\\TestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:41:23.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

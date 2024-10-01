@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using WebAppMvcClientLocation.CustomModelValidation;
 
 namespace WebAppMvcClientLocation.Models
 {
@@ -9,6 +10,7 @@ namespace WebAppMvcClientLocation.Models
         [Required]
         public int? LocationId { get; set; }
         [Required(ErrorMessage = "ClientName is required!")]
+        [CustomName]
         public string? ClientName { get; set; }
 
         public Client()

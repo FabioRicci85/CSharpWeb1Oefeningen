@@ -23,7 +23,7 @@
         </div>
         <div class="mb-4">
             <label asp-for="LocationId" class="form-label"></label>
-            <select asp-for="LocationId" class="form-control" asp-items="@(new SelectList(locatieNamen))"/>
+            <select asp-for="LocationId" class="form-control" asp-items="@locatieNamen"></select>
         </div>
         <div class="mb-4">
             <label asp-for="ClientName" class="form-label"></label>
