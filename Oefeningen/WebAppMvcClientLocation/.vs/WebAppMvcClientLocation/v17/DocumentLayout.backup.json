@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|c:\\csharpweb_oefeningen\\oefeningen\\webappmvcclientlocation\\webappmvcclientlocation\\custommodelvalidation\\customnonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|solutionrelative:webappmvcclientlocation\\custommodelvalidation\\customnonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|c:\\csharpweb_oefeningen\\oefeningen\\webappmvcclientlocation\\webappmvcclientlocation\\views\\locations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|solutionrelative:webappmvcclientlocation\\views\\locations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|c:\\csharpweb_oefeningen\\oefeningen\\webappmvcclientlocation\\webappmvcclientlocation\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|solutionrelative:webappmvcclientlocation\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|c:\\csharpweb_oefeningen\\oefeningen\\webappmvcclientlocation\\webappmvcclientlocation\\custommodelvalidation\\customnonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|solutionrelative:webappmvcclientlocation\\custommodelvalidation\\customnonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F294E1D5-9E19-4AFB-88B4-22F711B1DFE1}|WebAppMvcClientLocation\\WebAppMvcClientLocation.csproj|c:\\csharpweb_oefeningen\\oefeningen\\webappmvcclientlocation\\webappmvcclientlocation\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CustomPostcode.cs",
               "DocumentMoniker": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\CustomModelValidation\\CustomPostcode.cs",
               "RelativeDocumentMoniker": "WebAppMvcClientLocation\\CustomModelValidation\\CustomPostcode.cs",
@@ -116,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CustomNoNumbers.cs",
               "DocumentMoniker": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\CustomModelValidation\\CustomNoNumbers.cs",
               "RelativeDocumentMoniker": "WebAppMvcClientLocation\\CustomModelValidation\\CustomNoNumbers.cs",
@@ -155,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Location.cs",
               "DocumentMoniker": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Models\\Location.cs",
               "RelativeDocumentMoniker": "WebAppMvcClientLocation\\Models\\Location.cs",
@@ -181,12 +181,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Views\\Locations\\Create.cshtml",
               "RelativeDocumentMoniker": "WebAppMvcClientLocation\\Views\\Locations\\Create.cshtml",
-              "ToolTip": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Views\\Locations\\Create.cshtml*",
-              "RelativeToolTip": "WebAppMvcClientLocation\\Views\\Locations\\Create.cshtml*",
+              "ToolTip": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Views\\Locations\\Create.cshtml",
+              "RelativeToolTip": "WebAppMvcClientLocation\\Views\\Locations\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-27T10:24:30.188Z",
@@ -194,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\CSharpWeb_Oefeningen\\Oefeningen\\WebAppMvcClientLocation\\WebAppMvcClientLocation\\Views\\Client\\Create.cshtml",
               "RelativeDocumentMoniker": "WebAppMvcClientLocation\\Views\\Client\\Create.cshtml",

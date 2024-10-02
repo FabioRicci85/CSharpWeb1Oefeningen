@@ -98,8 +98,7 @@
               "RelativeToolTip": "WebAppMvcClientLocation\\CustomModelValidation\\CustomPostcode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T11:42:08.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T11:42:08.425Z"
             },
             {
               "$type": "Document",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "WebAppMvcClientLocation\\Data\\Database.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:26:38.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:26:38.505Z"
             },
             {
               "$type": "Document",
@@ -137,8 +135,7 @@
               "RelativeToolTip": "WebAppMvcClientLocation\\Controllers\\LocationsController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T17:19:11.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T17:19:11.318Z"
             },
             {
               "$type": "Document",
@@ -150,8 +147,7 @@
               "RelativeToolTip": "WebAppMvcClientLocation\\Controllers\\ClientController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T16:58:09.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T16:58:09.305Z"
             },
             {
               "$type": "Document",
@@ -163,8 +159,7 @@
               "RelativeToolTip": "WebAppMvcClientLocation\\Models\\Location.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T16:46:26.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T16:46:26.899Z"
             },
             {
               "$type": "Document",
@@ -176,8 +171,7 @@
               "RelativeToolTip": "WebAppMvcClientLocation\\Models\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T16:46:26.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T16:46:26.107Z"
             },
             {
               "$type": "Document",
@@ -189,8 +183,7 @@
               "RelativeToolTip": "WebAppMvcClientLocation\\Views\\Locations\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-27T10:24:30.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T10:24:30.188Z"
             },
             {
               "$type": "Document",
@@ -202,8 +195,7 @@
               "RelativeToolTip": "WebAppMvcClientLocation\\Views\\Client\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-27T10:24:36.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T10:24:36.091Z"
             }
           ]
         }
