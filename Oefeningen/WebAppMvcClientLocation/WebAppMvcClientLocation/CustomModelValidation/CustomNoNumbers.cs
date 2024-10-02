@@ -13,6 +13,7 @@ namespace WebAppMvcClientLocation.CustomModelValidation
             {
                 lst.Add(new ModelValidationResult("", "Naam mag geen cijfers bevatten"));
             }
+            
                 return lst;
         }
     }

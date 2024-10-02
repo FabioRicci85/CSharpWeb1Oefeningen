@@ -8,13 +8,13 @@
 <form asp-action="Create" method="post">
     <div class="col-md-6">
         <div class="mb-4">
-            <label asp-for="PostCode" class="form-control"></label>
-            <input asp-for="PostCode" class="form-label"/>
+            <label asp-for="PostCode" class="form-label"></label>
+            <input asp-for="PostCode" class="form-control"/>
             <span asp-validation-for="PostCode" class="text-danger"></span>
         </div>
         <div class="mb-4">
-            <label asp-for="City"></label>
-            <input asp-for="City" />
+            <label asp-for="City" class="form-label"></label>
+            <input asp-for="City" class="form-control"/>
             <span asp-validation-for="City" class="text-danger"></span>
         </div>
         <br />

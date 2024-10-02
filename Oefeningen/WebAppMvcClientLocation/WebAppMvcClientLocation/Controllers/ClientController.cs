@@ -20,16 +20,6 @@ namespace WebAppMvcClientLocation.Controllers
         [HttpPost]
         public IActionResult Create(Client c)
         {
-            //if (ModelState.IsValid)
-            //{
-            //    Database.AddClient(c);
-            //    return RedirectToAction("Index", "Client");
-            //}
-            //else
-            //{
-            //    return View("Create", c);
-            //}
-
             if (ModelState.IsValid)
             {
                 var bestaandeClientId = Database.Clients.FirstOrDefault(client => client.ClientId == c.ClientId);

@@ -1,11 +1,13 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using WebAppMvcClientLocation.CustomModelValidation;
 namespace WebAppMvcClientLocation.Models
 {
     public class Location
     {
         
         public int? LocationId { get; set; }
-        [Required (ErrorMessage = "The PostCode field is required")]
+        //[Required (ErrorMessage = "The PostCode field is required")]
+        [CustomPostcode]
         public string? PostCode { get; set; }
         [Required]
         public string? City { get; set; }
