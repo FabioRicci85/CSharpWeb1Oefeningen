@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using MVCTestEFCore.Models;
 
 namespace MVCTestEFCore.Data
 {
@@ -7,5 +8,6 @@ namespace MVCTestEFCore.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) 
         {        
         }
+        public DbSet<FirstTable>? FirstTable { get; set; }
     }
 }

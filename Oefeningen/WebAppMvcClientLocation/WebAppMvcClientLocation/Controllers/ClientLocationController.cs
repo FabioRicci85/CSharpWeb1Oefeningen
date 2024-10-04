@@ -8,7 +8,9 @@ namespace WebAppMvcClientLocation.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            var clientLocation = new ClientLocation();
+            var overview = clientLocation.Overview();
+            return View(overview);
         }
     }
 }

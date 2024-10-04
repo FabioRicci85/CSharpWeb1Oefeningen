@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvctestefcore\\mvctestefcore\\controllers\\firsttablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\controllers\\firsttablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvctestefcore\\mvctestefcore\\views\\firsttable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\views\\firsttable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvctestefcore\\mvctestefcore\\models\\firsttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\models\\firsttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvctestefcore\\mvctestefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvctestefcore\\mvctestefcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvctestefcore\\mvctestefcore\\controllers\\firsttablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\controllers\\firsttablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvctestefcore\\mvctestefcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvctestefcore\\mvctestefcore\\data\\localconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\data\\localconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvctestefcore\\mvctestefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F46EA7-95E9-4F50-AE63-2A81E69794E2}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,12 +79,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\MVCTestEFCore\\Views\\FirstTable\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCTestEFCore\\Views\\FirstTable\\Index.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\MVCTestEFCore\\Views\\FirstTable\\Index.cshtml",
+              "RelativeToolTip": "MVCTestEFCore\\Views\\FirstTable\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T09:18:45.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\MVCTestEFCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCTestEFCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\MVCTestEFCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCTestEFCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBwAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T09:12:22.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-03T08:50:02.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FirstTableController.cs",
               "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\MVCTestEFCore\\Controllers\\FirstTableController.cs",
               "RelativeDocumentMoniker": "MVCTestEFCore\\Controllers\\FirstTableController.cs",
               "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\MVCTestEFCore\\Controllers\\FirstTableController.cs",
               "RelativeToolTip": "MVCTestEFCore\\Controllers\\FirstTableController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T10:15:46.693Z",
               "EditorCaption": ""
@@ -77,14 +134,14 @@
               "RelativeDocumentMoniker": "MVCTestEFCore\\Models\\FirstTable.cs",
               "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\MVCTestEFCore\\Models\\FirstTable.cs",
               "RelativeToolTip": "MVCTestEFCore\\Models\\FirstTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T10:13:46.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\MVCTestEFCore\\Program.cs",
               "RelativeDocumentMoniker": "MVCTestEFCore\\Program.cs",
@@ -92,12 +149,11 @@
               "RelativeToolTip": "MVCTestEFCore\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:07:36.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T10:07:36.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "LocalConnectionString.cs",
               "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\MVCTestEFCore\\Data\\LocalConnectionString.cs",
               "RelativeDocumentMoniker": "MVCTestEFCore\\Data\\LocalConnectionString.cs",
@@ -110,13 +166,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\MVCTestEFCore\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MVCTestEFCore\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCTestEFCore\\MVCTestEFCore\\Data\\AppDbContext.cs",
               "RelativeToolTip": "MVCTestEFCore\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T09:58:14.807Z",
               "EditorCaption": ""

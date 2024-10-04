@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCTestEFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a75b4f1cd13c460b82e1fc71a4c45fcd4111a612")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+206cee9fbeb32c28e348fb63d93b4a10a10e0a34")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCTestEFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCTestEFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
