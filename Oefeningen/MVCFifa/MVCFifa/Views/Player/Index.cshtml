@@ -3,7 +3,6 @@
 @{
     ViewData["Title"] = "Index";
 }
-
 <h1>Index</h1>
 
 <p>
@@ -43,9 +42,10 @@
                 @Html.DisplayFor(modelItem => item.ImageLink)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                @Html.ActionLink("Edit", "Edit", new { id = item.PlayerId }) |
+                @Html.ActionLink("Details", "Details", new {  id=item.PlayerId  }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.PlayerId })
+                <br />
             </td>
         </tr>
 }

@@ -1,33 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\",
+  "WorkspaceRootPath": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\views\\player\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|solutionrelative:mvcfifa\\views\\player\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|solutionrelative:mvcfifa\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\views\\player\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\views\\player\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|solutionrelative:mvcfifa\\views\\player\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\views\\player\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|solutionrelative:mvcfifa\\views\\player\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|solutionrelative:mvcfifa\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\views\\player\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|solutionrelative:mvcfifa\\views\\player\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\views\\player\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|solutionrelative:mvcfifa\\views\\player\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\views\\player\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|solutionrelative:mvcfifa\\views\\player\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|solutionrelative:mvcfifa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|solutionrelative:mvcfifa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|solutionrelative:mvcfifa\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcfifa\\mvcfifa\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23DC5FD7-1725-4F21-BAB5-B8E9A1DC831C}|MVCFifa\\MVCFifa.csproj|solutionrelative:mvcfifa\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +46,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 14,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -65,26 +85,56 @@
               "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVCFifa\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVCFifa\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwB0AAAAOAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Player\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCFifa\\Views\\Player\\Delete.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Player\\Delete.cshtml",
+              "RelativeToolTip": "MVCFifa\\Views\\Player\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T10:00:38.055Z",
+              "WhenOpened": "2024-10-04T06:23:54.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Player\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCFifa\\Views\\Player\\Edit.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Player\\Edit.cshtml",
+              "RelativeToolTip": "MVCFifa\\Views\\Player\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T06:23:19.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Player\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCFifa\\Views\\Player\\Details.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Player\\Details.cshtml",
+              "RelativeToolTip": "MVCFifa\\Views\\Player\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T06:21:57.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Player\\Create.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Player\\Create.cshtml",
               "RelativeDocumentMoniker": "MVCFifa\\Views\\Player\\Create.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Player\\Create.cshtml*",
-              "RelativeToolTip": "MVCFifa\\Views\\Player\\Create.cshtml*",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Player\\Create.cshtml",
+              "RelativeToolTip": "MVCFifa\\Views\\Player\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-03T09:50:34.949Z",
@@ -92,68 +142,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Player\\Index.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Player\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCFifa\\Views\\Player\\Index.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Player\\Index.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Views\\Player\\Index.cshtml",
               "RelativeToolTip": "MVCFifa\\Views\\Player\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-03T09:49:49.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Controllers\\PlayerController.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Controllers\\PlayerController.cs",
               "RelativeDocumentMoniker": "MVCFifa\\Controllers\\PlayerController.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Controllers\\PlayerController.cs",
               "RelativeToolTip": "MVCFifa\\Controllers\\PlayerController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAswCoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwFoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T09:48:35.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Program.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Program.cs",
               "RelativeDocumentMoniker": "MVCFifa\\Program.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Program.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Program.cs",
               "RelativeToolTip": "MVCFifa\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T09:44:36.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T09:44:36.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Models\\Player.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Models\\Player.cs",
               "RelativeDocumentMoniker": "MVCFifa\\Models\\Player.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Models\\Player.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Models\\Player.cs",
               "RelativeToolTip": "MVCFifa\\Models\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T09:39:47.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T09:39:47.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MVCFifa\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCFifa\\MVCFifa\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "MVCFifa\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T09:37:33.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T09:37:33.384Z"
             }
           ]
         }
