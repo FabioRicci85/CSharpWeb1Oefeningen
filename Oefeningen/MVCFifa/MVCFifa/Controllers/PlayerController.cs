@@ -1,17 +1,21 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore.Query.Internal;
 using MVCFifa.Data;
 using MVCFifa.Models;
+using MVCFifa.ViewModel;
 
 namespace MVCFifa.Controllers
 {
     public class PlayerController : Controller
     {
         ApplicationDbContext _context;
-        public PlayerController(ApplicationDbContext context)
+        private IWebHostEnvironment _environment;
+        public PlayerController(ApplicationDbContext context, IWebHostEnvironment environment)
         {
             _context = context;
-            _context.Database.EnsureCreated();
+            //_context.Database.EnsureCreated();
+            _environment = environment;
         }
 
         public IActionResult Index()
@@ -28,14 +32,42 @@ namespace MVCFifa.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(Player player) 
+        public IActionResult Create(Player player)
         {
-            if (ModelState.IsValid) 
+            if (ModelState.IsValid)
             {
                 AddPlayer(player);
                 return RedirectToAction("Index");
             }
             return View();
+        }
+
+        [HttpGet]
+        public IActionResult Create2()
+        {
+            var newPlayer = new NewPlayer();
+            ViewData["TeamId"] = new SelectList(_context.Teams, "TeamId", "TeamName");
+            return View(newPlayer);
+        }
+
+        [HttpPost]
+        public IActionResult Create2(NewPlayer newPlayer)
+        {
+            if (ModelState.IsValid)
+            {
+                AddPlayer2(newPlayer);
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+
+        private void AddPlayer2(NewPlayer newPlayer)
+        {
+            _context.Players.Add(newPlayer);
+            _context.Teams.Add(newPlayer);
+            _context.TeamPlayer.Add(newPlayer);
+            _context.SaveChanges();
+
         }
 
         private void AddPlayer(Player player) 
@@ -47,6 +79,14 @@ namespace MVCFifa.Controllers
         public IActionResult Details(int id)
         {
             var player = _context.Players.Where(x => x.PlayerId == id).FirstOrDefault();
+            var fileExist = false;
+            if(player.ImageLink != null)
+            {
+                var path = _environment.WebRootPath;
+                var file = Path.Combine($"{path}\\images", player.ImageLink);
+                fileExist = System.IO.File.Exists(file);
+            }
+            ViewBag.FileExist = fileExist;
             return View(player);
         }
 

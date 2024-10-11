@@ -4,13 +4,8 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var sb = new StringBuilder();
-sb.Append("Server=(localdb)\\mssqllocaldb;");
-sb.Append("Database=fifaDb;");
-sb.Append("Trusted_Connection=true;");
-sb.Append("MultipleActiveResultSets=true");
+var connString = builder.Configuration.GetConnectionString("ApplicationDbContext");
 
-var connString = sb.ToString();
 builder.Services.AddDbContext<ApplicationDbContext>(
     options => options.UseSqlServer(connString));
 

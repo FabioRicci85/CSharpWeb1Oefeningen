@@ -1,85 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\",
+  "WorkspaceRootPath": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\location\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\location\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\location\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\location\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\controllers\\clientlocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\controllers\\clientlocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\data\\clientlocationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\data\\clientlocationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\viewmodels\\clientlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\viewmodels\\clientlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\location\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\location\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\client\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\client\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\location\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\location\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\clientlocation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\clientlocation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\location\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\location\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\location\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\location\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\location\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\location\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\location\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\controllers\\clientlocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\controllers\\clientlocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\data\\clientlocationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\data\\clientlocationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\viewmodels\\clientlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\viewmodels\\clientlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\location\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\location\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\client\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\client\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\location\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\location\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\clientlocation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\clientlocation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\webappmvcclientlocationefcore\\webappmvcclientlocationefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB784939-EDA7-459B-9AD2-C40C6208FD78}|WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore.csproj|solutionrelative:webappmvcclientlocationefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -90,20 +90,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 19,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -130,15 +118,23 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Details.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Details.cshtml",
               "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\Location\\Details.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Details.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Details.cshtml",
               "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\Location\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -147,128 +143,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Delete.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Delete.cshtml",
               "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\Location\\Delete.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Delete.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Delete.cshtml",
               "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\Location\\Delete.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T09:30:53.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T09:30:53.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Edit.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Edit.cshtml",
               "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\Location\\Edit.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Edit.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Edit.cshtml",
               "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\Location\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T09:30:19.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T09:30:19.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Details.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Details.cshtml",
               "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\Client\\Details.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Details.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Details.cshtml",
               "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\Client\\Details.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-04T09:24:35.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Delete.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Delete.cshtml",
               "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\Client\\Delete.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Delete.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Delete.cshtml",
               "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\Client\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T09:23:15.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\Client\\Edit.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Edit.cshtml",
-              "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\Client\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T09:22:11.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T09:23:15.008Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\ClientLocation\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\ClientLocation\\Index.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\ClientLocation\\Index.cshtml",
-              "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\ClientLocation\\Index.cshtml",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\Client\\Edit.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Edit.cshtml",
+              "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\Client\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T09:02:58.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T09:22:11.446Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBcAAABJAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\ClientLocation\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\ClientLocation\\Index.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\ClientLocation\\Index.cshtml",
+              "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\ClientLocation\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T08:58:54.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClientLocation.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\ViewModels\\ClientLocation.cs",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\ViewModels\\ClientLocation.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\ViewModels\\ClientLocation.cs",
-              "RelativeToolTip": "WebAppMVCClientLocationEFCore\\ViewModels\\ClientLocation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T08:49:34.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClientLocationController.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Controllers\\ClientLocationController.cs",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Controllers\\ClientLocationController.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Controllers\\ClientLocationController.cs",
-              "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Controllers\\ClientLocationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T08:41:11.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T09:02:58.194Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T08:58:54.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientLocation.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\ViewModels\\ClientLocation.cs",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\ViewModels\\ClientLocation.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\ViewModels\\ClientLocation.cs",
+              "RelativeToolTip": "WebAppMVCClientLocationEFCore\\ViewModels\\ClientLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:49:34.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientLocationController.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Controllers\\ClientLocationController.cs",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Controllers\\ClientLocationController.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Controllers\\ClientLocationController.cs",
+              "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Controllers\\ClientLocationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:41:11.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Create.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Create.cshtml",
               "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\Location\\Create.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Create.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Create.cshtml",
               "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\Location\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -277,11 +265,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Index.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Index.cshtml",
               "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\Location\\Index.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Index.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Location\\Index.cshtml",
               "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\Location\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -290,107 +278,99 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LocationController.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Controllers\\LocationController.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Controllers\\LocationController.cs",
               "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Controllers\\LocationController.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Controllers\\LocationController.cs",
               "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Controllers\\LocationController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAwwFsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T08:24:43.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T08:24:43.929Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Create.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Create.cshtml",
               "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\Client\\Create.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Create.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Create.cshtml",
               "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\Client\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T08:23:06.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T08:23:06.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\Client\\Index.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Index.cshtml",
+              "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\Client\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T08:22:30.666Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Views\\Client\\Index.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Views\\Client\\Index.cshtml",
-              "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Views\\Client\\Index.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCkAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T08:22:30.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "ClientController.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Controllers\\ClientController.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Controllers\\ClientController.cs",
               "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Controllers\\ClientController.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Controllers\\ClientController.cs",
               "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Controllers\\ClientController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAawEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:43:48.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T07:43:48.942Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Location.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Models\\Location.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Models\\Location.cs",
               "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Models\\Location.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Models\\Location.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Models\\Location.cs",
               "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Models\\Location.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:37:50.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T07:37:50.587Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Models\\Client.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Models\\Client.cs",
               "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Models\\Client.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Models\\Client.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Models\\Client.cs",
               "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Models\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:37:40.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T07:37:40.852Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Program.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Program.cs",
               "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Program.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Program.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Program.cs",
               "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:30:07.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T07:30:07.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ClientLocationContext.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Data\\ClientLocationContext.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Data\\ClientLocationContext.cs",
               "RelativeDocumentMoniker": "WebAppMVCClientLocationEFCore\\Data\\ClientLocationContext.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Data\\ClientLocationContext.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\WebAppMVCClientLocationEFCore\\WebAppMVCClientLocationEFCore\\Data\\ClientLocationContext.cs",
               "RelativeToolTip": "WebAppMVCClientLocationEFCore\\Data\\ClientLocationContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:22:29.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T07:22:29.755Z"
             }
           ]
         }

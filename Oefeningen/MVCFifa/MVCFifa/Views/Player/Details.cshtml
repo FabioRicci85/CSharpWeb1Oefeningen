@@ -2,6 +2,10 @@
 
 @{
     ViewData["Title"] = "Details";
+    var fileExist = Convert.ToBoolean(ViewBag.FileExist);
+    var imgLink = "";
+    if (fileExist)
+        imgLink = $"/images/{Model.ImageLink}";
 }
 
 <h1>Details</h1>
@@ -35,6 +39,10 @@
             @Html.DisplayFor(model => model.ImageLink)
         </dd>
     </dl>
+    @if (fileExist)
+    {
+        <img src="@imgLink" width="200" />
+    }
 </div>
 <div>
     @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
