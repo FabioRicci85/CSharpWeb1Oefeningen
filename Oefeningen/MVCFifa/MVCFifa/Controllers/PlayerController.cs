@@ -63,10 +63,7 @@ namespace MVCFifa.Controllers
 
         private void AddPlayer2(NewPlayer newPlayer)
         {
-            _context.Players.Add(newPlayer);
-            _context.Teams.Add(newPlayer);
-            _context.TeamPlayer.Add(newPlayer);
-            _context.SaveChanges();
+            
 
         }
 
