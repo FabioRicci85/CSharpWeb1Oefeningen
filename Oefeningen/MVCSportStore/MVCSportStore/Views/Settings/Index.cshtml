@@ -1,0 +1,16 @@
+﻿@model MVCSportStore.ViewModels.PagingSettingViewModel
+
+<h4>Paging Settings</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="PagingSettingsView">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ProductPagination" class="control-label"></label>
+                <input asp-for="ProductPagination" class="form-control" />
+                <span asp-validation-for="ProductPagination" class="text-danger"></span>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,4 +1,4 @@
-﻿@model IEnumerable<Product>
+﻿@model MVCSportStore.ViewModels.ProductModel
 
 @{
     ViewData["Title"] = "Home Page";
@@ -7,7 +7,9 @@
 <div class="text-center">
     <h1 class="display-4">SportStore</h1>
 
-    @foreach(var product in Model)
+    <a class="btn border border-secondary m-1"  asp-controller="Product" asp-action="Create">Create new product</a>
+
+    @foreach(var product in Model.Products)
     {
         <div>
             <h3>@product.Name</h3>
@@ -15,4 +17,13 @@
             <h4>@product.ProductPrice.ToString("c")</h4>
         </div>
     }
+    <br />
+    <div class="row">
+        @for (int i = 1; i <= Model.PagingInfo.TotalPages; i++)
+        {
+            <span style="float:left;width:50px">
+                <a class="btn border border-secondary m-1" asp-controller="Home" asp-action="Index" asp-route-id="@i">@i</a>
+            </span>
+        }
+    </div>
 </div>
