@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj": {}
+    "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj": {}
   },
   "projects": {
-    "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj": {
+    "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj",
+        "projectUniqueName": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj",
         "projectName": "MVCSportStore",
-        "projectPath": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj",
-        "packagesPath": "C:\\Users\\12300113\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\obj\\",
+        "projectPath": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj",
+        "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
+        "outputPath": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\12300113\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

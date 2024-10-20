@@ -1,58 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\",
+  "WorkspaceRootPath": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\taghelpers\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\taghelpers\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\viewmodels\\pagingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\viewmodels\\pagingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\viewmodels\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\viewmodels\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\viewmodels\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\viewmodels\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|c:\\csharpweb1oefeningen\\csharpweb1oefeningen\\oefeningen\\mvcsportstore\\mvcsportstore\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C2BEED-4044-49B6-864A-83F77511D3BE}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -90,183 +58,32 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Views\\Settings\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCSportStore\\Views\\Settings\\Index.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Views\\Settings\\Index.cshtml*",
-              "RelativeToolTip": "MVCSportStore\\Views\\Settings\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCSportStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCSportStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T10:22:14.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SettingsController.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Controllers\\SettingsController.cs",
-              "RelativeDocumentMoniker": "MVCSportStore\\Controllers\\SettingsController.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Controllers\\SettingsController.cs",
-              "RelativeToolTip": "MVCSportStore\\Controllers\\SettingsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:00:07.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "MVCSportStore\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "MVCSportStore\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T09:55:18.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "MVCSportStore\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "MVCSportStore\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T09:45:25.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\ViewModels\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "MVCSportStore\\ViewModels\\ProductRepository.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\ViewModels\\ProductRepository.cs",
-              "RelativeToolTip": "MVCSportStore\\ViewModels\\ProductRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwB0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T09:04:08.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\ViewModels\\ProductModel.cs",
-              "RelativeDocumentMoniker": "MVCSportStore\\ViewModels\\ProductModel.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\ViewModels\\ProductModel.cs",
-              "RelativeToolTip": "MVCSportStore\\ViewModels\\ProductModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:59:52.736Z",
+              "WhenOpened": "2024-10-18T10:12:51.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVCSportStore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "MVCSportStore\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:48:53.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCSportStore\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVCSportStore\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T09:53:20.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PagingSettings.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\ViewModels\\PagingSettings.cs",
-              "RelativeDocumentMoniker": "MVCSportStore\\ViewModels\\PagingSettings.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\ViewModels\\PagingSettings.cs*",
-              "RelativeToolTip": "MVCSportStore\\ViewModels\\PagingSettings.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Title": "PageLinkTagHelper.cs",
+              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\TagHelpers\\PageLinkTagHelper.cs",
+              "RelativeDocumentMoniker": "MVCSportStore\\TagHelpers\\PageLinkTagHelper.cs",
+              "ToolTip": "C:\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\TagHelpers\\PageLinkTagHelper.cs*",
+              "RelativeToolTip": "MVCSportStore\\TagHelpers\\PageLinkTagHelper.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:51:38.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PagingInfo.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\ViewModels\\PagingInfo.cs",
-              "RelativeDocumentMoniker": "MVCSportStore\\ViewModels\\PagingInfo.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\ViewModels\\PagingInfo.cs",
-              "RelativeToolTip": "MVCSportStore\\ViewModels\\PagingInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:51:25.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVCSportStore\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVCSportStore\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:48:45.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "MVCSportStore\\Models\\Product.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Models\\Product.cs",
-              "RelativeToolTip": "MVCSportStore\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:33:06.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StoreDbContext.cs",
-              "DocumentMoniker": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Data\\StoreDbContext.cs",
-              "RelativeDocumentMoniker": "MVCSportStore\\Data\\StoreDbContext.cs",
-              "ToolTip": "C:\\CSharpWeb1Oefeningen\\CSharpWeb1Oefeningen\\Oefeningen\\MVCSportStore\\MVCSportStore\\Data\\StoreDbContext.cs",
-              "RelativeToolTip": "MVCSportStore\\Data\\StoreDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:30:48.899Z",
+              "WhenOpened": "2024-10-18T09:39:04.154Z",
               "EditorCaption": ""
             }
           ]
